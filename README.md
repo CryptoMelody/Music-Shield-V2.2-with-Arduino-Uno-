@@ -10,3 +10,6 @@ Just plug it on the board (Arduino Uno), like you see it on the pictute:
 You can add the all neccecary libraries here:
 
 https://github.com/Seeed-Studio/Music_Shield
+
+**DO NOT FORGET TO PUT THE SD CARD**
+**DO NOT FORGET TO PUT THE HEADPHONES**
