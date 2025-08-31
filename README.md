@@ -1,4 +1,7 @@
 # Music-Shield-V2.2-with-Arduino-Uno
+
+This project and others was made a long time ago, so that's why some of the **projects doesn't have any connections!!!!!!**NOW I WILL UPLOAD ALL MY WORKS ONLY ON GITHUB AND THEY WILL INCLUDE ALL INFORMATION!
+
 This shield is from Seed Studio:
 
 ![Musicshield_01](https://github.com/user-attachments/assets/d02f2d46-1f54-43a0-9f4e-e2cd4d3fa8ff)
