@@ -11,6 +11,6 @@ You can add the all neccecary libraries here:
 
 https://github.com/Seeed-Studio/Music_Shield
 
-**DO NOT FORGET TO PUT THE SD CARD**
+**DO NOT FORGET TO PUT THE SD CARD WITH THE MUSIC**
 
 **DO NOT FORGET TO PUT THE HEADPHONES**
